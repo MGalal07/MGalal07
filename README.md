@@ -13,6 +13,8 @@ I am currently learning **Python** with the aim of advancing my skills in:
 - Statsmodels
 - Matplotlib
 - Seaborn
+- Scikit-learn
+- Machine learning
 
 Feel free to reach out if you'd like to collaborate on learning together or if you have any tips for me! 🤝
 
